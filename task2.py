@@ -5,6 +5,6 @@ while True:
         numb= int(user_numb)
         break
     else:
-        print("I SAID NUMBER, YOU IDIOT")
+        print("Please enter a number")
 x= (numb*(numb+1))//2
 print(x)
